@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Our Diary",
+  "base_artist": "ME:I",
+  "createdAt": "2026-01-12T13:47:12.568709Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Our Diary (feat. Evident Truth)",
+      "artist": "The Kevin Bennett",
+      "has_synced": false,
+      "path": "select/01_Our_Diary_(feat._Evident_Truth)_The_Kevin_Bennett.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Our Diary",
+      "artist": "ME:I",
+      "has_synced": false,
+      "path": "select/02_Our_Diary_ME_I.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Our Diary",
+      "artist": "ME:I",
+      "has_synced": false,
+      "path": "select/pl_01_Our_Diary_ME_I.txt"
+    }
+  ]
+}
